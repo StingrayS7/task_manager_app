@@ -1,16 +1,17 @@
-# task_manager_app
+# Менеджер задач
 
-A new Flutter project.
+Flutter приложение для управления задачами с поддержкой всех платформ.
 
-## Getting Started
+## 📱 Возможности
 
-This project is a starting point for a Flutter application.
+- Создание, редактирование и удаление задач
+- Отметка выполненных задач
+- Синхронизация между устройствами
 
-A few resources to get you started if this is your first Flutter project:
+## 📄 Лицензия
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Этот проект распространяется под лицензией MIT. Подробнее см. файл LICENSE.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 📚 Документация
+
+Подробные инструкции по установке и настройке смотрите в [INSTALL.md](INSTALL.md)
